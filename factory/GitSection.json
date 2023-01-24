@@ -1,0 +1,9 @@
+{
+	"name": "GitSection",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0c27bac2-b037-477e-b95e-951b00c769c1",
+		"tenantId": "76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61"
+	}
+}
